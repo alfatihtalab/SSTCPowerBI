@@ -31,6 +31,8 @@ After taking the introductory lessons on data analytics, the course then moves t
 and learning to build custom formulas as part of the data transformation process. The overarching goal of the course is to help students 
 become effective at the process of retrieving, analyzing and visualizing data in order to answer questions and draw conclusions.
 
+### Screenshots:
+
 ![p1-p1](https://github.com/alfatihtalab/SSTCPowerBI/assets/35189369/f2e6ee5c-b60d-4c35-918a-fcc85bd6d5a0)
 
 ![p1p2](https://github.com/alfatihtalab/SSTCPowerBI/assets/35189369/ba5c2b70-9e31-4de9-bc05-037b338de335)
